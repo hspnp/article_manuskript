@@ -1,2 +1,2 @@
 # Titel
-Autor: Heike
+Autor: Heike Stadler
